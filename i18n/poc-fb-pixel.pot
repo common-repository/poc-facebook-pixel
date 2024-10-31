@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: POC Facebook Pixel\n"
+"POT-Creation-Date: 2014-08-19 11:45+0100\n"
+"PO-Revision-Date: 2014-08-19 11:45+0100\n"
+"Last-Translator: Nicola Mustone <mustone.nicola@gmail.com>\n"
+"Language-Team: YOUR TEAM <email@domain.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-poc-fb-pixel-conditions.php:26
+msgid "Conditions"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:95
+#: classes/class-poc-fb-pixel-conditions.php:264
+msgid "Pages"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:106
+#, php-format
+msgid "The \"%s\" page"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:169
+#, php-format
+msgid "A custom pixel code for \"%s\""
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:182
+msgid "Page Templates"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:188
+#, php-format
+msgid "The \"%s\" page template"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:198
+msgid "Post Types"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:205
+#, php-format
+msgid "\"%s\" Post Type Archive"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:206
+#, php-format
+msgid "The \"%s\" post type archive"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:214
+#, php-format
+msgid "Each Individual %s"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:215
+#, php-format
+msgid "Entries in the \"%s\" post type"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:232
+msgid "Taxonomy Archives"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:240
+#, php-format
+msgid "The default \"%s\" archives"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:249
+#, php-format
+msgid "The %s %s archive"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:251
+#, php-format
+msgid "All posts in \"%s\""
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:251
+#, php-format
+msgid "All posts in the %s %s archive"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:260
+msgid "Template Hierarchy"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:265
+msgid "Displayed on all pages that don't have a more specific widget area."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:269
+msgid "Search Results"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:270
+msgid "Displayed on search results screens."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:274
+msgid "Default \"Your Latest Posts\" Screen"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:275
+msgid "Displayed on the default \"Your Latest Posts\" screen."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:279
+msgid "Front Page"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:280
+msgid ""
+"Displayed on any front page, regardless of the settings under the \"Settings "
+"-> Reading\" admin screen."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:284
+msgid "Single Entries"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:285
+msgid ""
+"Displayed on single entries of any public post type other than \"Pages\"."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:289
+msgid "All Archives"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:290
+msgid ""
+"Displayed on all archives (category, tag, taxonomy, post type, dated, author "
+"and search)."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:294
+msgid "Author Archives"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:295
+msgid ""
+"Displayed on all author archive screens (that don't have a more specific "
+"code)."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:299
+msgid "Date Archives"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:300
+msgid "Displayed on all date archives."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:304
+msgid "404 Error Screens"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:305
+msgid "Displayed on all 404 error screens."
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:514
+msgid "Taxonomy Terms"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:523
+msgid "Advanced"
+msgstr ""
+
+#: classes/class-poc-fb-pixel-conditions.php:573
+msgid "Taxonomy Token"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:80 classes/class-poc-fb-pixel.php:201
+#: classes/class-poc-fb-pixel.php:211
+msgid "Pixel Code"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:81
+msgid "Pixel Codes"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:91
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:92
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:93
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:95
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:96
+msgid "Search %a"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:97
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:98
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:166
+msgid "Condition(s)"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:212
+msgid ""
+"Add here the pixel code from Facebook. Paste it exactly as it is provided by "
+"FB."
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:225
+msgid "Enter FB Pixel code name here"
+msgstr ""
+
+#: classes/class-poc-fb-pixel.php:242
+msgid "FB Pixel updated."
+msgstr ""
+
+#: integrations/integration-woocommerce.php:69
+msgid "WooCommerce"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:84
+msgid "Shop Page"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:85
+msgid "The WooCommerce \"Shop\" landing page"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:89
+msgid "Product Categories"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:90
+msgid "All product categories"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:94
+msgid "Product Tags"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:95
+msgid "All product tags"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:99
+msgid "Products"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:100
+msgid "All products"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:104
+msgid "Cart Page"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:105
+msgid "The WooCommerce \"Cart\" page"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:109
+msgid "Checkout Page"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:110
+msgid "The WooCommerce \"Checkout\" page"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:114
+msgid "Account Pages"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:115
+msgid "The WooCommerce \"Account\" pages"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:120
+#, php-format
+msgid "Products in the \"%s\" category"
+msgstr ""
+
+#: integrations/integration-woocommerce.php:121
+#, php-format
+msgid "Products tagged \"%s\""
+msgstr ""
+
+#: poc-facebook-pixel.php:32
+msgid "Donate"
+msgstr ""
